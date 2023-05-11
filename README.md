@@ -48,7 +48,7 @@ Team lead
 
 ### InheritX
 
-[Job Title] | [Start Date] - [End Date]
+Senior Software Developer
 
 - Led the development of large-scale web applications using Drupal and Zend frameworks
 - Mentored junior developers and provided technical guidance and support
