@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Sure, here's a sample GitHub README file for a web developer with the details you provided:
 
 # [Kalpesh Thakkar] - Web Developer
 
