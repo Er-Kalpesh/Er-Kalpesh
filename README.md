@@ -36,7 +36,7 @@ I am a web developer with over 14 years of experience in developing dynamic and 
 - Zend
 
 <!-- My Skills -->
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,yii,cakephp,codeigniter,html,css,tailwind,github,js,bash,git,githubactions,linux,vim,vscode,xd&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,html5,html,css,tailwind,github,js,bash,git,githubactions,linux,vim,vscode,xd&perline=8)](https://skillicons.dev)
 
 ## Work Experience
 
