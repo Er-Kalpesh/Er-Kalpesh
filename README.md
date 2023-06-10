@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# [Kalpesh Thakkar] - Web Developer
+# [Kalpesh Thakkar] - Fullstack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kalpeshthakkar/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/Er-Kalpesh)
