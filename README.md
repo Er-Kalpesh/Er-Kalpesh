@@ -22,7 +22,10 @@ Here are some ideas to get you started:
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/Er-Kalpesh)
 
 
-
+<p align= "center">
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=er-kalpesh&theme=graywhite" width="49%" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=er-kalpesh&count_private=true&show_icons=true&hide=contribs&theme=graywhite" alt="the-coder-dude" width="49%" />
+<p/>
 
 ## About Me
 
