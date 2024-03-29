@@ -21,6 +21,12 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kalpeshthakkar/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/Er-Kalpesh)
 
+
+<p align= "center">
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yashasvimisra2798&theme=graywhite" width="47.5%" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=yashasvimisra2798&count_private=true&show_icons=true&hide=contribs&theme=graywhite" alt="the-coder-dude" width="47.5%" />
+<p/>
+
 ## About Me
 
 I am a web developer with over 14 years of experience in developing dynamic and scalable web applications. My expertise lies in a wide range of web development frameworks, including Yii, Laravel, Codeigniter, Cakephp, Drupal, and Zend.
