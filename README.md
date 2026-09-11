@@ -1,72 +1,29 @@
-<h1 align="center">Hola! It's Kalpesh</h1>
-<h3 align="center">Pleased to see you on the other side. <br> Get to know me 👀</h3>
+# Kalpesh Thakkar
 
-<!--
-**Er-Kalpesh/Er-Kalpesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior backend engineer & delivery lead** · Laravel · PHP · PostgreSQL · Ahmedabad, India
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kalpeshthakkar-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalpeshthakkar/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've spent 15+ years building and shipping backend systems. I also lead the teams that deliver them. I've designed multi-tenant SaaS backends in Laravel, and I've owned the PostgreSQL data model for a real-time food manufacturing ERP. I've led Agile teams of up to 35 people through release.
 
-# [Kalpesh Thakkar] - Fullstack Developer
+## What I work on
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kalpeshthakkar/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/Er-Kalpesh)
+- **Multi-tenant SaaS on Laravel**: service-layer architecture, REST API design, authentication and authorization, queues, and third-party integrations.
+- **PostgreSQL data engineering**: schema design, composite and partial indexing, query-plan analysis with `EXPLAIN ANALYZE`, transaction and locking design for high-write workloads, and tenant data isolation.
+- **Traceability & inventory systems**: lot and batch genealogy from raw material to finished goods, with forward and backward trace queries on the recall-critical path.
+- **Delivery leadership**: sprint and release planning, scope control, architecture reviews, and a code-review culture.
 
+## Currently building
 
-## About Me
+Both projects are in progress. I'll link them here once they're public.
 
-I am a web developer with over 14 years of experience in developing dynamic and scalable web applications. My expertise lies in a wide range of web development frameworks, including Yii, Laravel, Codeigniter, Cakephp, Drupal, and Zend.
+- **Lot-traceability schema for PostgreSQL**: a reference data model for batch genealogy and recall queries, with benchmarks for the indexing strategy.
+- **RAG compliance assistant**: an LLM application that answers questions from regulatory documents, built with retrieval over vector search.
 
-## Skills
+## Stack
 
-- Web development
-- Yii
-- Laravel
-- Codeigniter
-- Cakephp
-- Drupal
-- Zend
+[![Stack](https://skillicons.dev/icons?i=php,laravel,postgres,mysql,aws,docker,linux,nginx,git,githubactions&perline=10)](https://skillicons.dev)
 
-<!-- My Skills -->
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,html,css,tailwind,github,js,bash,git,githubactions,linux,vim,vscode,xd&perline=8)](https://skillicons.dev)
+## Get in touch
 
-## Work Experience
-
-###  Engage-IT
-
-Team lead 
-
-- Developed and maintained web applications using Yii, Laravel, and Codeigniter frameworks
-- Collaborated with cross-functional teams to develop innovative solutions to complex business problems
-- Ensured code quality and adherence to best practices and industry standards
-- Provided technical support to clients and resolved technical issues in a timely and efficient manner
-
-### InheritX
-
-Senior Software Developer
-
-- Led the development of large-scale web applications using Drupal and Zend frameworks
-- Mentored junior developers and provided technical guidance and support
-- Conducted code reviews and implemented best practices to improve code quality
-- Collaborated with project managers and stakeholders to define project requirements and timelines
-
-## Contact Me
-
-Feel free to connect with me on LinkedIn or follow me on GitHub. I am always open to discussing new opportunities and collaborating with other developers.
-
-
-<p align= "center">
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=er-kalpesh&theme=graywhite" width="49%" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=er-kalpesh&count_private=true&show_icons=true&hide=contribs&theme=graywhite" alt="the-coder-dude" width="45%" />
-</p>
-
-<br><br>
+The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/kalpeshthakkar/). I'm always happy to talk about backend architecture, PostgreSQL performance, or engineering delivery.
